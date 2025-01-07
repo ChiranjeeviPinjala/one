@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Chiranjeevi - DevOps Engineer || Associate Consultant Capgemini</h1>
+        <h1>Vikas - DevOps Engineer || Associate Consultant Capgemini</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
